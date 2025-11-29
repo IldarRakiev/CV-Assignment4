@@ -2,4 +2,3 @@ open3d
 argparse
 
 numpy
-json
