@@ -1,6 +1,6 @@
 import argparse
-from scene_loader import Scene
-from explorer import ExplorationAgent
+from src.scene_loader import Scene
+from src.explorer import ExplorationAgent
 import json
 import os
 
